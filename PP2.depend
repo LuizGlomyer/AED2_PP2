@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1542729746 source:c:\users\glomy\desktop\comp\cpp\aed2\pp2\main.cpp
+	<iostream>
+	<limits>
+	"ListaLigada.hpp"
+	"Fila.hpp"
+	"Pilha.hpp"
+	"Grafo.hpp"
+
+1540773322 c:\users\glomy\desktop\comp\cpp\aed2\pp2\listaligada.hpp
+	"ELEMENTO.hpp"
+	<iostream>
+
+1534653257 c:\users\glomy\desktop\comp\cpp\aed2\pp2\elemento.hpp
+
+1540833056 c:\users\glomy\desktop\comp\cpp\aed2\pp2\fila.hpp
+	"ELEMENTO.hpp"
+	"ListaLigada.hpp"
+
+1538337494 c:\users\glomy\desktop\comp\cpp\aed2\pp2\pilha.hpp
+	"ELEMENTO.hpp"
+
+1542727389 c:\users\glomy\desktop\comp\cpp\aed2\pp2\grafo.hpp
+	"ListaLigada.hpp"
+	"Fila.hpp"
+
+1542727412 source:c:\users\glomy\desktop\comp\cpp\aed2\pp2\grafo.cpp
+	"Grafo.hpp"
+	<iostream>
+	<limits>
+
